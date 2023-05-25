@@ -1,0 +1,11 @@
+C:\Users\Atrina\source\repos\lightBulb2\lightBulb2\obj\Debug\lightBulb2.csproj.AssemblyReference.cache
+C:\Users\Atrina\source\repos\lightBulb2\lightBulb2\obj\Debug\lightBulb2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Atrina\source\repos\lightBulb2\lightBulb2\obj\Debug\lightBulb2.Form1.resources
+C:\Users\Atrina\source\repos\lightBulb2\lightBulb2\obj\Debug\lightBulb2.Properties.Resources.resources
+C:\Users\Atrina\source\repos\lightBulb2\lightBulb2\obj\Debug\lightBulb2.csproj.GenerateResource.cache
+C:\Users\Atrina\source\repos\lightBulb2\lightBulb2\obj\Debug\lightBulb2.csproj.CoreCompileInputs.cache
+C:\Users\Atrina\source\repos\lightBulb2\lightBulb2\bin\Debug\lightBulb2.exe.config
+C:\Users\Atrina\source\repos\lightBulb2\lightBulb2\bin\Debug\lightBulb2.exe
+C:\Users\Atrina\source\repos\lightBulb2\lightBulb2\bin\Debug\lightBulb2.pdb
+C:\Users\Atrina\source\repos\lightBulb2\lightBulb2\obj\Debug\lightBulb2.exe
+C:\Users\Atrina\source\repos\lightBulb2\lightBulb2\obj\Debug\lightBulb2.pdb
