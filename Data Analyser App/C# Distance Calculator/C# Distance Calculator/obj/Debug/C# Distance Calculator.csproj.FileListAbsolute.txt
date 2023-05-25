@@ -1,0 +1,11 @@
+C:\Users\Atrina\source\repos\C# Distance Calculator\C# Distance Calculator\bin\Debug\C# Distance Calculator.exe.config
+C:\Users\Atrina\source\repos\C# Distance Calculator\C# Distance Calculator\bin\Debug\C# Distance Calculator.exe
+C:\Users\Atrina\source\repos\C# Distance Calculator\C# Distance Calculator\bin\Debug\C# Distance Calculator.pdb
+C:\Users\Atrina\source\repos\C# Distance Calculator\C# Distance Calculator\obj\Debug\C# Distance Calculator.csproj.AssemblyReference.cache
+C:\Users\Atrina\source\repos\C# Distance Calculator\C# Distance Calculator\obj\Debug\C# Distance Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Atrina\source\repos\C# Distance Calculator\C# Distance Calculator\obj\Debug\C__Distance_Calculator.Form1.resources
+C:\Users\Atrina\source\repos\C# Distance Calculator\C# Distance Calculator\obj\Debug\C__Distance_Calculator.Properties.Resources.resources
+C:\Users\Atrina\source\repos\C# Distance Calculator\C# Distance Calculator\obj\Debug\C# Distance Calculator.csproj.GenerateResource.cache
+C:\Users\Atrina\source\repos\C# Distance Calculator\C# Distance Calculator\obj\Debug\C# Distance Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Atrina\source\repos\C# Distance Calculator\C# Distance Calculator\obj\Debug\C# Distance Calculator.exe
+C:\Users\Atrina\source\repos\C# Distance Calculator\C# Distance Calculator\obj\Debug\C# Distance Calculator.pdb
